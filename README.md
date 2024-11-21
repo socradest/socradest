@@ -17,4 +17,4 @@
 [![Forgejo](https://img.shields.io/static/v1?logo=phabricator&label=&message=Phabricator&color=000&style=flat)]()
 </div>
 
-![](https://raw.githubusercontent.com/socradest/socradest/c56895da592003a80392bc3a598a834413468b8e/profile-3d-contrib/profile-3d-contrib.svg)
+![](profile-3d-contrib/profile-3d-contrib.svg)
