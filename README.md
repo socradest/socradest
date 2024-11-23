@@ -4,7 +4,9 @@
 
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/socradest/socradest/refs/heads/master/star.png" alt="logo" width="64" height="64"/>
 <img src="https://raw.githubusercontent.com/socradest/socradest/refs/heads/master/owl.png" alt="logo" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/socradest/socradest/refs/heads/master/ply.png" alt="logo" width="64" height="64"/>
 </p>
 
 <div align="center">
