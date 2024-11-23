@@ -1,7 +1,11 @@
-## 👋 Hi, I’m @socradest
+<div align="center">
+<h1>👋 Hi, I’m @socradest</h1>
+</div>
 
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/socradest/socradest/refs/heads/master/owl.png" alt="logo" width="64" height="64"/>
+</p>
 
 <div align="center">
 
